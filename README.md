@@ -1,4 +1,4 @@
-###**Greenify**###
+Greenify
 
 ![Greenify](https://github.com/ar1shns/Redhats-51-Sustain-Ai-Thon/blob/main/greenify.jpg "Greenify")
 
