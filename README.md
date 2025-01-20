@@ -1,6 +1,6 @@
 🌱Greenify
 
-![Greenify]( https://github.com/ar1shns/Redhats-51-Sustain-Ai-Thon/blob/main/j.png "Greenify")
+![Greenify](https://github.com/ar1shns/Redhats-51-Sustain-Ai-Thon/blob/main/greenify.jpg "Greenify")
 
 Greenify is an innovative application designed to revolutionize the way we recycle waste wrappers and containers. Created for **Sustain-AI-Thon**, this app leverages cutting-edge technology to encourage and simplify sustainable living by promoting responsible recycling practices.
 
